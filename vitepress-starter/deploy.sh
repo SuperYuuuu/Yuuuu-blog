@@ -20,7 +20,7 @@ git push -f https://github.com/SuperYuuuu/Yuuuu-blog.git master:gh-pages
 cd -
 
 
-git add .
-git commit -m "xxx"
-git push origin HEAD:refs/for/master
-sh ./vitepress-starter/deploy.sh
+#git add .
+#git commit -m "xxx"
+#git push origin HEAD:refs/for/master
+#sh ./vitepress-starter/deploy.sh
