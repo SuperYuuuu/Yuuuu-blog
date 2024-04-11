@@ -19,7 +19,7 @@ export const nav: DefaultTheme.NavItem[] = [
         ]
     },
     {text: '后端开发', items: [
-            {text: '数据结构预算法', link: '/docs/Algothrim/'}
+            {text: '数据结构预算法', link: '/docs/Backend/Algothrim/'}
         ]
     },
     {text: '工具相关', items: [
