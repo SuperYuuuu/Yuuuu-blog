@@ -10,20 +10,20 @@ export const nav: DefaultTheme.NavItem[] = [
         items: [
             {
                 text: '编程能手',
-                link: '/column/Coding/' // 表示docs/column/Coding/index.md
+                link: '/docs/Coding/' // 表示docs/column/Coding/index.md
             },
             {
                 text: '所思·所想',
-                link: '/column/Growing/' // 表示docs/column/Growing/index.md
+                link: '/docs/Growing/' // 表示docs/column/Growing/index.md
             }
         ]
     },
     {text: '后端开发', items: [
-            {text: '数据结构预算法', link: '/column/Algothrim/'}
+            {text: '数据结构预算法', link: '/docs/Algothrim/'}
         ]
     },
     {text: '工具相关', items: [
-            {text: 'Markdown', link: '/column/Tool/Markdown'}
+            {text: 'Markdown', link: '/docs/Tool/Markdown'}
         ]
     },
     {

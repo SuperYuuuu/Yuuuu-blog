@@ -23,17 +23,17 @@ hero:
   actions:
     - theme: brand
       text: 进入主页
-      link: /column/Algothrim/
+      link: /docs/Algothrim/
     - theme: alt
       text: 个人成长
-      link: /column/Growing/
+      link: /docs/Growing/
 
 # 按钮下方的描述
 features:
   - icon: 🌈🌧
     title: Java后端
     details: 程序猿，国内某银行搬砖。
-    link: /column/views/guide
+    link: /docs/views/guide
   - icon: 💪
     title: gamer
     details: 喜欢和朋友打游戏
